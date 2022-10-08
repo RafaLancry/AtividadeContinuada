@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.time.temporal.ChronoUnit"/>
+    <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
+    <fullyQualifiedTypeName name="br.com.cesarschool.poo.geral.RepositorioConta"/>
+    <fullyQualifiedTypeName name="br.com.cesarschool.poo.geral.Conta"/>
+</qualifiedTypeNameHistroy>
