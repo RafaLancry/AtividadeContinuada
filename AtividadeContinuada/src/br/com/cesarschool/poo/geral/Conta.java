@@ -118,6 +118,11 @@ public class Conta {
 			return -1;
 		}
 	}
+
+	public boolean saldoValido() {
+		return this.saldo > 0;
+		
+	}
 }
 
 
@@ -138,9 +143,7 @@ int validarNome() {
 	}
 	return SUCESSO;
 }
-boolean precoValido() {
-	return this.saldo > 0;
-}
+
 boolean tipoPreechido() {
 	return dataAbertura != null;
 }
